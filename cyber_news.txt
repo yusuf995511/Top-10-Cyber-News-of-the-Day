@@ -1,0 +1,1 @@
+1. Hackers start using double DLL sideloading to evade detection - BleepingComputer (https://www.bleepingcomputer.com/news/security/hackers-start-using-double-dll-sideloading-to-evade-detection/)
