@@ -9,4 +9,5 @@ Steps:
 3. Replace `api_key` in the code with your API Key.
 4. Modify the `params` variable to search for your preferred queries (default is "cyber security").
 5. Run the program.
-6. Enjoy!
+
+Enjoy!
